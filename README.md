@@ -22,17 +22,17 @@ HexaSort is an engaging Unity-based puzzle game where players need to sort hexag
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ali-Ch-001/HexaSort.git
+   git clone https://github.com/Ali-Ch-001/HexaStack-Full.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd HexaSort
+   cd HexaStack-Full
    ```
 
 ## Usage
 1. Open the project in Unity:
    - Launch Unity Hub.
-   - Click on "Add" and select the `HexaSort` project directory.
+   - Click on "Add" and select the `HexaStack-Full` project directory.
    - Open the project.
 
 2. Play the game:
