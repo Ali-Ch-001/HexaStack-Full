@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{ED1245E3-D7D2-75E1-FA88-5CBAFB161D3C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hexa Stack/Scripts/MergeManager.cs">
+    <Files>
+      <File FileName="Assets/Hexa Stack/Scripts/MergeManager.cs" Line="283" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HexaStack Full" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Hexa Stack" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MergeManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d238178-4284-41a2-a065-fee52b31a99e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
